@@ -1,0 +1,22 @@
+/* Tambahkan gaya kustom di sini jika diperlukan */
+
+body {
+    background-color: #f8f9fa;
+}
+
+.navbar {
+    margin-bottom: 30px;
+}
+
+.jumbotron {
+    background-color: #343a40;
+    color: #ffffff;
+}
+
+.card {
+    border: none;
+}
+
+.card-img-top {
+    max-height: 200px;
+}
